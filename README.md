@@ -21,8 +21,11 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 **Circuit diagram**
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/1d04fdaa-7417-47a5-958c-dcc1ad818994" />
 
+
+
 **TABULATION:**
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/2d248e5f-140e-4daa-be5c-be74ff383cfd" />
+
 
 **CALCULATION:**
  <img width="921" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e1d5443-cb1e-4771-a86f-b533d22cf79c" />
